@@ -1,0 +1,1 @@
+# Labb1-NLP-QnA-AzureAI
